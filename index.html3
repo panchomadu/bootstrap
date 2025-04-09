@@ -63,13 +63,13 @@
     <div id="carouselExample" class="carousel slide">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="https://th.bing.com/th/id/R.a166e56a9500f000f86e8249dc9680cb?rik=S1W%2bd%2flGnU1qYw&pid=ImgRaw&r=0" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="https://th.bing.com/th/id/OIP.94X79oa5Ap1GaWdMRWUY4gHaGe?rs=1&pid=ImgDetMain" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="https://th.bing.com/th/id/OIP.WiuaQTCMvdWXHT3PlngICAHaHa?rs=1&pid=ImgDetMain" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
